@@ -56,7 +56,7 @@ Currently, all our courses are available on the platform [Coursera](https://cour
 and some of them are available on [edX](https://edx.org) or the [Extension School](https://extensionschool.ch).
 This section explains the differences between these learning platforms.
 
-On all the platforms the material is fully available online. It includes 
+On all the platforms the full material is always available online. It includes 
 video lectures, text articles, quizzes, and auto-graded homeworks. All the 
 platforms also provide discussion forums where you can exchange with the 
 other learners.
