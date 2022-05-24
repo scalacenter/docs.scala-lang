@@ -23,7 +23,7 @@ testimonials:
 The [Scala Center] produces online courses of various levels, from beginner 
 to advanced.
 
-If you are a programmer and want to learn Scala, there are two recommended 
+**If you are a programmer and want to learn Scala**, there are two recommended 
 approaches. The fast path consists of taking the course [Effective Programming 
 in Scala](#effective-programming-in-scala).
 Otherwise, you can take the full [Scala Specialization], which is made of
@@ -80,17 +80,17 @@ you to choose the Coursera or edX platform, but if you are looking for more
 support, we recommend you to choose the Extension School. Here is a table 
 below that compares the learning platforms:
 
-|                                                   | Coursera / edX (audit) | Coursera / edX (subscription) | Extension School |
-|---------------------------------------------------|------------------------|-------------------------------|------------------|
-| Video lectures, quizzes, homeworks                | Yes                    | Yes                           | Yes              |
-| Discussion forums                                 | Yes                    | Yes                           | Yes              |
-| Auto-graded homeworks                             | Yes                    | Yes                           | Yes              |
-| Self-paced                                        | Yes                    | Yes                           | Yes              |
-| Price                                             | $0                     | $50 to $100 per course        | $350 per month   |
-| Certificate of completion                         | No                     | Yes                           | Yes              |
-| Supports the Scala Center                         | No                     | Yes                           | Yes              |
-| 30 min of live sessions with instructors per week | No                     | No                            | Yes              |
-| Code reviews by Scala experts                     | No                     | No                            | Yes              |
+|                                                  | Coursera / edX (audit) | Coursera / edX (subscription) | Extension School |
+|--------------------------------------------------|------------------------|-------------------------------|------------------|
+| Video lectures, quizzes                          | Yes                    | Yes                           | Yes              |
+| Auto-graded homeworks                            | Yes                    | Yes                           | Yes              |
+| Discussion forums                                | Yes                    | Yes                           | Yes              |
+| Self-paced                                       | Yes                    | Yes                           | Yes              |
+| Price                                            | $0                     | $50 to $100 per course        | $420 per month   |
+| Certificate of completion                        | No                     | Yes                           | Yes              |
+| Supports the Scala Center                        | No                     | Yes                           | Yes              |
+| 30 min of live session with instructors per week | No                     | No                            | Yes              |
+| Code reviews by Scala experts                    | No                     | No                            | Yes              |
 
 ## Effective Programming in Scala
 
