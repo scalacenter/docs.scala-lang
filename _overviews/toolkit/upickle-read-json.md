@@ -2,7 +2,7 @@
 title: How to read a JSON?
 type: section
 description: How to read a JSON with Scala Toolkit.
-num: 20
+num: 22
 previous-page: upickle-intro
 next-page: upickle-read-json-typed
 ---
